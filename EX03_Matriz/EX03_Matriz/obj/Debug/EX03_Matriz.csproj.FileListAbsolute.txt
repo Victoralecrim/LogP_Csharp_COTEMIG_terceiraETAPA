@@ -1,0 +1,11 @@
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\TerceiraETAPA\EX03_Matriz\EX03_Matriz\bin\Debug\EX03_Matriz.exe.config
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\TerceiraETAPA\EX03_Matriz\EX03_Matriz\bin\Debug\EX03_Matriz.exe
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\TerceiraETAPA\EX03_Matriz\EX03_Matriz\bin\Debug\EX03_Matriz.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\TerceiraETAPA\EX03_Matriz\EX03_Matriz\obj\Debug\EX03_Matriz.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\TerceiraETAPA\EX03_Matriz\EX03_Matriz\obj\Debug\EX03_Matriz.csproj.SuggestedBindingRedirects.cache
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\TerceiraETAPA\EX03_Matriz\EX03_Matriz\obj\Debug\EX03_Matriz.Form1.resources
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\TerceiraETAPA\EX03_Matriz\EX03_Matriz\obj\Debug\EX03_Matriz.Properties.Resources.resources
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\TerceiraETAPA\EX03_Matriz\EX03_Matriz\obj\Debug\EX03_Matriz.csproj.GenerateResource.cache
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\TerceiraETAPA\EX03_Matriz\EX03_Matriz\obj\Debug\EX03_Matriz.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\TerceiraETAPA\EX03_Matriz\EX03_Matriz\obj\Debug\EX03_Matriz.exe
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\TerceiraETAPA\EX03_Matriz\EX03_Matriz\obj\Debug\EX03_Matriz.pdb

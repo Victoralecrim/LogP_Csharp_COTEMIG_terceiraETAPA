@@ -1,0 +1,11 @@
+H:\LogP\TerceiraETAPA\EX02_Matriz\EX02_Matriz\bin\Debug\EX02_Matriz.exe.config
+H:\LogP\TerceiraETAPA\EX02_Matriz\EX02_Matriz\bin\Debug\EX02_Matriz.exe
+H:\LogP\TerceiraETAPA\EX02_Matriz\EX02_Matriz\bin\Debug\EX02_Matriz.pdb
+H:\LogP\TerceiraETAPA\EX02_Matriz\EX02_Matriz\obj\Debug\EX02_Matriz.csproj.SuggestedBindingRedirects.cache
+H:\LogP\TerceiraETAPA\EX02_Matriz\EX02_Matriz\obj\Debug\EX02_Matriz.Form1.resources
+H:\LogP\TerceiraETAPA\EX02_Matriz\EX02_Matriz\obj\Debug\EX02_Matriz.Properties.Resources.resources
+H:\LogP\TerceiraETAPA\EX02_Matriz\EX02_Matriz\obj\Debug\EX02_Matriz.csproj.GenerateResource.cache
+H:\LogP\TerceiraETAPA\EX02_Matriz\EX02_Matriz\obj\Debug\EX02_Matriz.csproj.CoreCompileInputs.cache
+H:\LogP\TerceiraETAPA\EX02_Matriz\EX02_Matriz\obj\Debug\EX02_Matriz.exe
+H:\LogP\TerceiraETAPA\EX02_Matriz\EX02_Matriz\obj\Debug\EX02_Matriz.pdb
+H:\LogP\TerceiraETAPA\EX02_Matriz\EX02_Matriz\obj\Debug\EX02_Matriz.csproj.AssemblyReference.cache

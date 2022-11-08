@@ -1,0 +1,11 @@
+H:\LogP\TerceiraETAPA\EX08PAG73\EX08PAG73\bin\Debug\EX08PAG73.exe.config
+H:\LogP\TerceiraETAPA\EX08PAG73\EX08PAG73\bin\Debug\EX08PAG73.exe
+H:\LogP\TerceiraETAPA\EX08PAG73\EX08PAG73\bin\Debug\EX08PAG73.pdb
+H:\LogP\TerceiraETAPA\EX08PAG73\EX08PAG73\obj\Debug\EX08PAG73.csproj.AssemblyReference.cache
+H:\LogP\TerceiraETAPA\EX08PAG73\EX08PAG73\obj\Debug\EX08PAG73.csproj.SuggestedBindingRedirects.cache
+H:\LogP\TerceiraETAPA\EX08PAG73\EX08PAG73\obj\Debug\EX08PAG73.Form1.resources
+H:\LogP\TerceiraETAPA\EX08PAG73\EX08PAG73\obj\Debug\EX08PAG73.Properties.Resources.resources
+H:\LogP\TerceiraETAPA\EX08PAG73\EX08PAG73\obj\Debug\EX08PAG73.csproj.GenerateResource.cache
+H:\LogP\TerceiraETAPA\EX08PAG73\EX08PAG73\obj\Debug\EX08PAG73.csproj.CoreCompileInputs.cache
+H:\LogP\TerceiraETAPA\EX08PAG73\EX08PAG73\obj\Debug\EX08PAG73.exe
+H:\LogP\TerceiraETAPA\EX08PAG73\EX08PAG73\obj\Debug\EX08PAG73.pdb

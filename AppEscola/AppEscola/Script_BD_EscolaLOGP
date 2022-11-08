@@ -1,0 +1,12 @@
+create database BD_EscolaLOGP;
+
+use BD_EscolaLOGP;
+
+create table tbl_Aluno(
+	id int not null auto_increment primary key,
+	nome varchar(40) not null,
+	idade int not null,
+	unidade varchar(8) not null,
+	serie int not null, 
+	turma char(1) not null
+);
