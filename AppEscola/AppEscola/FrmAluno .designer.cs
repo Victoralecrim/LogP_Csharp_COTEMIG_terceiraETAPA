@@ -126,7 +126,7 @@
             // btnLimparDados
             // 
             this.btnLimparDados.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.btnLimparDados.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLimparDados.Font = new System.Drawing.Font("Arial Narrow", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLimparDados.Location = new System.Drawing.Point(414, 38);
             this.btnLimparDados.Name = "btnLimparDados";
             this.btnLimparDados.Size = new System.Drawing.Size(129, 37);
@@ -152,10 +152,12 @@
             this.cmbTurma.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbTurma.FormattingEnabled = true;
             this.cmbTurma.Items.AddRange(new object[] {
-            "2A",
-            "2B",
-            "2C",
-            "2D"});
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"});
             this.cmbTurma.Location = new System.Drawing.Point(421, 37);
             this.cmbTurma.Name = "cmbTurma";
             this.cmbTurma.Size = new System.Drawing.Size(99, 21);
@@ -256,6 +258,7 @@
             this.dtgAlunos.Name = "dtgAlunos";
             this.dtgAlunos.Size = new System.Drawing.Size(554, 150);
             this.dtgAlunos.TabIndex = 6;
+            this.dtgAlunos.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgAlunos_CellClick);
             // 
             // btnCadastrar
             // 
@@ -279,6 +282,7 @@
             this.btnAlterar.TabIndex = 8;
             this.btnAlterar.Text = "Alterar";
             this.btnAlterar.UseVisualStyleBackColor = false;
+            this.btnAlterar.Click += new System.EventHandler(this.btnAlterar_Click);
             // 
             // btnExcluir
             // 
@@ -330,6 +334,7 @@
             this.Name = "FrmAluno";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Aplicação C# e BD";
+            this.Load += new System.EventHandler(this.FrmAluno_Load);
             this.pnlDadosPessoais.ResumeLayout(false);
             this.pnlDadosPessoais.PerformLayout();
             this.pnlDadosEscolares.ResumeLayout(false);
